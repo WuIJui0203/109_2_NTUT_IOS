@@ -1,0 +1,11 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "ARKit_Class_QRCode.arreferenceimage"
+    }
+  ]
+}

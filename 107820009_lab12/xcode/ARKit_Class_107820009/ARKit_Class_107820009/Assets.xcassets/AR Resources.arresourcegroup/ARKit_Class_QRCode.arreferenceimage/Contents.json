@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "ARKit_Class_QRCode.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 7
+  }
+}
